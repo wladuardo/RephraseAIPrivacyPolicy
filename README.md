@@ -64,8 +64,7 @@ Since we do not collect personal data, there is no data to access, modify, or de
 
 If you have questions about this policy, you can contact us at:
 
-- 📧 **Email**: [your-email@example.com]  
-- 👤 **Developer**: [Your Name or Developer Name]
+- 📧 **Email**: [vkovalskiyk@gmail.com]  
 
 ---
 
